@@ -109,7 +109,6 @@ def view_study_progress(study_tasks):
 
     print()
     print("Study Progress")
-    print("--------------")
     print(f"Completed tasks: {completed_tasks}")
     print(f"Total tasks: {total_tasks}")
 

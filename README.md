@@ -1,6 +1,10 @@
 # Video Presentation
 
-YouTube Video Link:
+YouTube Video Link: https://youtu.be/8B7Wl2w3Y5I?si=Q36w7EIz9cFTAh5s
+
+# Slide Deck
+
+Link: https://studentcscc-my.sharepoint.com/:p:/g/personal/lmalone11_student_cscc_edu/IQBKtLLMLl3cQovUMXoX-6l5Ab1I7ldjesmyS8Y1X_tWPLk?e=DRZuq7
 
 # Python Study Planner
 
